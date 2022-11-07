@@ -1,0 +1,15 @@
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\bin\Debug\net6.0\Probleme1.exe
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\bin\Debug\net6.0\Probleme1.deps.json
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\bin\Debug\net6.0\Probleme1.runtimeconfig.json
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\bin\Debug\net6.0\Probleme1.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\bin\Debug\net6.0\Probleme1.pdb
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.csproj.AssemblyReference.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.AssemblyInfoInputs.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.AssemblyInfo.cs
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.csproj.CoreCompileInputs.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\refint\Probleme1.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.pdb
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\Probleme1.genruntimeconfig.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\Probleme1\Probleme1\obj\Debug\net6.0\ref\Probleme1.dll
