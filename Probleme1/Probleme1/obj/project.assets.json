@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rotun\\Desktop\\Work_Codes\\C#_Apps\\Programs\\NumberGuesser\\Probleme1\\Probleme1\\Probleme1.csproj",
+      "projectUniqueName": "C:\\Users\\rotun\\Documents\\lab2\\Prob1\\Probleme1\\Probleme1\\Probleme1.csproj",
       "projectName": "Probleme1",
-      "projectPath": "C:\\Users\\rotun\\Desktop\\Work_Codes\\C#_Apps\\Programs\\NumberGuesser\\Probleme1\\Probleme1\\Probleme1.csproj",
+      "projectPath": "C:\\Users\\rotun\\Documents\\lab2\\Prob1\\Probleme1\\Probleme1\\Probleme1.csproj",
       "packagesPath": "C:\\Users\\rotun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rotun\\Desktop\\Work_Codes\\C#_Apps\\Programs\\NumberGuesser\\Probleme1\\Probleme1\\obj\\",
+      "outputPath": "C:\\Users\\rotun\\Documents\\lab2\\Prob1\\Probleme1\\Probleme1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

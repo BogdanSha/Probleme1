@@ -30,6 +30,31 @@ namespace Probleme1
         /// </summary>
         private static void GhiciNr()
         {
+            bool cont = true;
+            Random rand = new Random();
+            int num = rand.Next(1, 1024);
+            int guess;
+            Console.WriteLine("Guess a number between 10 and 100");
+            while (cont == true)
+            {
+
+                guess = int.Parse(Console.ReadLine());
+                if (guess == num)
+                {
+                    Console.WriteLine("Congrats Champ, you guessed right!!!");
+                    cont = false;
+                    break;
+                }
+                if (guess > num)
+                {
+                    Console.WriteLine("Your number is higher, Guess Again!");
+                }
+                if (guess < num)
+                {
+                    Console.WriteLine("Your number is lower, Guess Again!");
+                }
+            }
+
         }
         /// <summary>
         /// Se verifca daca numarul dat este o secventa de 2 cifre care se pot repeta
